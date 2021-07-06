@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="oo.composicao.Item"/>
+    <fullyQualifiedTypeName name="oo.composicao.Curso"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Item"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Produto"/>
+    <fullyQualifiedTypeName name="oo.composicao.desafio.Cliente"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="oo.heranca.Jogador"/>
+    <fullyQualifiedTypeName name="oo.heranca.Monstro"/>
+    <fullyQualifiedTypeName name="oo.heranca.Heroi"/>
+</qualifiedTypeNameHistroy>

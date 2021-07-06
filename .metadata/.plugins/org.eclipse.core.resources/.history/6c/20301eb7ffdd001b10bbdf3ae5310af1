@@ -1,0 +1,13 @@
+package oo.heranca;
+
+public class Jogo {
+
+	public static void main(String[] args) {
+		
+		Jogador j1 = new Jogador();
+		Jogador j2 = new Jogador();
+		
+		System.out.println(j1.y);
+		System.out.println(j1.x);
+	}
+}
